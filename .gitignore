@@ -1,0 +1,17 @@
+# virtual environments
+.venv/
+venv/
+
+# environment variables
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# vector db / embeddings
+vectorstore/
+embeddings/
+
+# OS files
+.DS_Store
